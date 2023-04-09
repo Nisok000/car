@@ -1,0 +1,89 @@
+/* font-family: 'Roboto', sans-serif */
+* {
+    box-sizing: border-box;
+}
+
+html,
+body {
+    height: 100%;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+}
+
+ul>li {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+img {
+    max-width: 100%;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    margin: 0;
+}
+
+.wrapper {
+    background: url();
+    height: 100%;
+    width: 100%;
+}
+
+.header {}
+
+.container {}
+
+.header__container {
+    display: flex;
+}
+
+.logo {}
+
+.navigation {}
+
+.navigation__item {}
+
+.contact {}
+
+.location {}
+
+.number {}
+
+.main {}
+
+.hero {}
+
+.information {}
+
+.header__information {}
+
+.backhead__information {}
+
+.container__btn {}
+
+.btn {}
+
+.footer__information {}
+
+.sell {}
+
+.footer {}
+
+.advantage {}
+
+.advantage__item {}
+
+.hero-img {}
+
+.contant {}
